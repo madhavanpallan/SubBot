@@ -8,7 +8,8 @@ employee of MTA.
 Paper Link - https://www.dropbox.com/sh/cpolg3mvrs4ekbj/AADgnuudz-ipIYR7kGZOMsTja?dl=0&preview=C1-DEEPDIAL19_paper_21.pdf
 
 Link to the GitLab source repository in conjunction with the bluemix is publicly available and can be cloned from here: 
-git clone https://git.eu-gb.bluemix.net/madhpallan/subbot
+
+"git clone https://git.eu-gb.bluemix.net/madhpallan/subbot"
 
 Demo Link - https://subbot.eu-gb.mybluemix.net/
 
