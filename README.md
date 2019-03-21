@@ -11,12 +11,14 @@ Link to the GitLab source repository in conjunction with the bluemix is publicly
 
 Demo Link - https://subbot.eu-gb.mybluemix.net/
 
-Demo Video - https://drive.google.com/file/d/1pnS-lkaHFmx3KFmJX7JV2xxIgtx_m4Z9/view?usp=sharing
+Demo Video - https://drive.google.com/file/d/1Zv3_APaVXdq1fAPPD1iSvSD60n9yokSd/view?usp=sharing
 
-Demo ScreenShots - https://drive.google.com/drive/folders/1HI-sC0sDydhJwdm4Hzv_bQ1m9NJnXTev?usp=sharing
+Demo Video using Android - https://drive.google.com/file/d/1LxYsdFYlx5IMcIaQdOPWUf-j2qc66uSg/view?usp=sharing
+
+Demo ScreenShots - https://drive.google.com/drive/folders/1sdy_YbPe4Eg6znusv1DmFCHY8Jk4ET4x?usp=sharing
 
 Presentation for Deep Dial’19 workshop, In Proceedings of the Thirty Third AAAI Conference on Artificial Intelligence at AAAI Conference, Hawaii, 2019
 
 Presentation Link - https://docs.google.com/presentation/d/1h6sbFlAT76SM5mnUqSLThhpdV-FvMycriZR3e0lTvuQ/edit?usp=sharing
 
-Presentation for "NYC Open Data Week" - https://docs.google.com/presentation/d/1hqS6IMlnSVG6MVyyjXmmumxLpkeOWCyDvJzxciG-6gU/edit?usp=sharing
+Presentation for "NYC Open Data Week- 2019" - https://docs.google.com/presentation/d/1hqS6IMlnSVG6MVyyjXmmumxLpkeOWCyDvJzxciG-6gU/edit?usp=sharing
