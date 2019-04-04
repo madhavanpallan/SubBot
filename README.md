@@ -1,5 +1,5 @@
 # subbot
-Paper Title - SubBot - chatbot for commutters of subway
+Paper Title - SubBot - chatbot for commuters of subway
 
 Introduction- SubBot is a chatbot for helping folks from various background that include children's, elders and tourist for easy access to NYC Transit Subway Information. It is to complement CARS, an assistant for internal employee of MTA.
 
