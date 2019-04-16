@@ -22,3 +22,5 @@ Presentation for Deep Dial’19 workshop, In Proceedings of the Thirty Third AAA
 Presentation Link - https://docs.google.com/presentation/d/1h6sbFlAT76SM5mnUqSLThhpdV-FvMycriZR3e0lTvuQ/edit?usp=sharing
 
 Presentation for "NYC Open Data Week- 2019" - https://docs.google.com/presentation/d/1hqS6IMlnSVG6MVyyjXmmumxLpkeOWCyDvJzxciG-6gU/edit?usp=sharing
+
+Please, Submit your issues here - https://git.eu-gb.bluemix.net/madhpallan/subbot/issues (Current issues are for login members only !)
