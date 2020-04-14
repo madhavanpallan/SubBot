@@ -24,3 +24,7 @@ Presentation Link - https://docs.google.com/presentation/d/1h6sbFlAT76SM5mnUqSLT
 Presentation for "NYC Open Data Week- 2019" - https://docs.google.com/presentation/d/1hqS6IMlnSVG6MVyyjXmmumxLpkeOWCyDvJzxciG-6gU/edit?usp=sharing
 
 Please, Submit your issues here - https://git.eu-gb.bluemix.net/madhpallan/subbot/issues (Current issues are for login members only !)
+
+Recipient of travel grant for the workshop from AIJ (Artificial Intelligence Journal). Special thanks to the committee members of DEEPDIAL'19, AAAI2019 (Dr. Srivastava and Team)
+
+Acknowledgement:- Dr. Biplav Srivastava for continuous encouragement.
